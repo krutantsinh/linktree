@@ -27,4 +27,4 @@ This project displays a list of important links for easy access to my social med
 - **JavaScript** for link handling.
 
 ## Live Demo
-    Link will be available once the project is live. Until then you can run this project in your localhost.
+Link will be available once the project is live. Until then you can run this project in your localhost.
